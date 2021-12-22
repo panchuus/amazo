@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+C:\Users\Panchami S Kamath\Desktop\Upload Github\amazo\Github\.metadata\.plugins\org.eclipse.jdt.core
+2459287158.index
+2879870711.index
+1865797976.index
+1642175237.index
